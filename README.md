@@ -35,7 +35,7 @@ Las métricas adicionales, la matriz de confusión y las predicciones de ejemplo
 
 ## Paso a paso para ejecutar el proyecto
 
-Ejecuta los siguientes comandos en orden desde la carpeta raíz del proyecto clasificacion-flores.
+Ejecuta los siguientes comandos en orden desde la carpeta raíz del proyecto.
 
 1. Crear el entorno virtual
 
